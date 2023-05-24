@@ -1,0 +1,3 @@
+[submodule "rabbitmq/docker-rabbitmq-stomp"]
+	path = rabbitmq/docker-rabbitmq-stomp
+	url = https://github.com/quangthe/docker-rabbitmq-stomp.git
